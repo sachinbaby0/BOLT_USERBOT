@@ -24,7 +24,7 @@ src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-
 
 ## String Session
 
-<p align="center"><a href="https://replit.com/@Itz-zaid/pyrogram"> <img src="https://img.shields.io/badge/String%20Session-black?style=for-the-badge&logo=replit" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://t.me/string_sesion_gen_bot"> <img src="https://img.shields.io/badge/String%20Session-black?style=for-the-badge&logo=replit" width="220" height="38.45"/></a></p>
 
 
 ## 𝐃𝐄𝐏𝐋𝐎𝐘𝐌𝐄𝐍𝐓𝐒
