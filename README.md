@@ -1,3 +1,6 @@
+<img
+src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <p align="center">⚡️𝗭𝗘𝗨𝗦-𝗨𝗦𝗘𝗥𝗕𝗢𝗧⚡️</p>
 
 <img src="https://telegra.ph/file/6e8bb5bb7cd3a4a534683.jpg">
@@ -7,6 +10,11 @@
 <p align="center">
     <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
 
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sagexdd&repo=USERBOT2&theme=flag-india)
+
+[![GIF](https://github.com/Sagexdd/SYNAXMUSIC/blob/main/DAXXTEAM.gif)](https://github.com/Sagexdd)
+   [![SYNAX](https://github-stats-alpha.vercel.app/api?username=Sagexdd "SYNAX")](https://github-stats-alpha.vercel.app/api?username=Sagexdd "SYNAX")
+   
 ## Requirements 
 
 - PyroGram Session
