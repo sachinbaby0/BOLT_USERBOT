@@ -205,13 +205,13 @@ RAID = [
 ]
 
 
-GRP = "@mastiwithfriendsx|@STRANGER_LOGS|@FIGHTERS1234|mastiwithfriendsx|STRANGER_LOGS|FIGHTERS1234"
+GRP = "@sagebotxsupports"
 
-GROUP = [-1001766825642, -1002018556839]
+GROUP = [-1002045402838]
 
-VERIFIED_USERS = [6919199044, 6762113050, 6668557356, 1709495698, 1920507972, 1450303652]
+VERIFIED_USERS = [7037832227, 5959308905]
 
-Owners = "@mastiwithfriendsx|@SHIVANSH39|@ITSZ_SHIVANSH"
+Owners = "@ig_synax|@the_girl_moon|@sagebotxsupports"
 
 PORM = [
         "https://telegra.ph/file/9bcc076fd81dfe3feb291.mp4",
