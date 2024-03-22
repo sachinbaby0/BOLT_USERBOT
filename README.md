@@ -1,6 +1,6 @@
-<p align="center">⚡️𝗦𝗧𝗥𝗔𝗡𝗚𝗘𝗥-𝗨𝗦𝗘𝗥𝗕𝗢𝗧⚡️</p>
+<p align="center">⚡️𝗭𝗘𝗨𝗦-𝗨𝗦𝗘𝗥𝗕𝗢𝗧⚡️</p>
 
-<img src="https://graph.org/file/c6a2ed96648fd03377dc9.jpg">
+<img src="https://telegra.ph/file/6e8bb5bb7cd3a4a534683.jpg">
 
 <p align="center">⚡️𝗔 𝗣𝗢𝗪𝗘𝗥𝗙𝗨𝗟 𝗜𝗗 𝗨𝗦𝗘𝗥𝗕𝗢𝗧⚡️</p>
 
@@ -25,7 +25,7 @@
 
 [ꜰᴏʀᴋ ᴅᴇᴘʟᴏʏ ɪꜱ ʜɪɢʜʟʏ ʀᴇᴄᴏᴍᴍᴇɴᴅᴇᴅ](https://telegra.ph/file/5bcf79f948ca06030640c.mp4)
 
-<p align="center"><a href="http://dashboard.heroku.com/new?template=https://github.com/itzshukla/STRANGER-USERBOT2.0"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-pink?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="http://dashboard.heroku.com/new?template=https://github.com/Sagexdd/USERBOT2"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-pink?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 ## Features 
 
@@ -37,7 +37,7 @@
 
 ## Deploy To Render 
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/STRANGER-USERBOT2.0)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Sagexdd/USERBOT2)
 
 
 ```
@@ -60,8 +60,8 @@ and you ended up in a Finale Battle with Telegram and at the end
 ```
 
 ## Credits 💖
-- [𝗦𝗛𝗜𝗩𝗔𝗡𝗦𝗛](https://t.me/SHIVANSH39)
-- [𝗦𝗧𝗥𝗔𝗡𝗚𝗘𝗥](https://t.me/SHIVANSH474) 
+- [|| 𝗦ʏɴαxx](https://t.me/ig_synax)
+- [|| ˹𖤍𝐒ʏɴαxx x 𝐒ᴜᴘᴘᴏʀᴛ𖤍˼ ||](https://t.me/sagebotxsupports) 
 
 ## Support / Channel
 
