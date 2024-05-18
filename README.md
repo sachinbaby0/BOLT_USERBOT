@@ -3,7 +3,7 @@ src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-
 
 <p align="center">⚡️𝗔𝗟𝗣𝗛𝗔-𝗨𝗦𝗘𝗥𝗕𝗢𝗧⚡️</p>
 
-<img src="https://graph.org/file/437091ea5c8fb26a8abf8.jpg">
+<img src="https://graph.org/file/bbae2c50b58056ecc4df7.jpg">
 
 <p align="center">⚡️𝗔 𝗣𝗢𝗪𝗘𝗥𝗙𝗨𝗟 𝗜𝗗 𝗨𝗦𝗘𝗥𝗕𝗢𝗧⚡️</p>
 
