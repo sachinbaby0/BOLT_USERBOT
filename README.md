@@ -3,14 +3,14 @@ src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-
 
 <p align="center">⚡️𝗔𝗟𝗣𝗛𝗔-𝗨𝗦𝗘𝗥𝗕𝗢𝗧⚡️</p>
 
-<img src="https://telegra.ph/file/6e8bb5bb7cd3a4a534683.jpg">
+<img src="https://graph.org/file/437091ea5c8fb26a8abf8.jpg">
 
 <p align="center">⚡️𝗔 𝗣𝗢𝗪𝗘𝗥𝗙𝗨𝗟 𝗜𝗗 𝗨𝗦𝗘𝗥𝗕𝗢𝗧⚡️</p>
 
 <p align="center">
     <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=purvimusic&repo=ALPH_USERBOT&theme=flag-india)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=purvimusic&repo=ALPHA_USERBOT&theme=flag-india)
 
 [![GIF](https://github.com/purvimusic/PURVI_MUSIC/blob/main/DAXXTEAM.gif)](https://github.com/purvimusic)
    [![RAUSHAN](https://github-stats-alpha.vercel.app/api?username=purvimusic "RAUSHAN")](https://github-stats-alpha.vercel.app/api?username=purvimusic "RAUSHAN")
