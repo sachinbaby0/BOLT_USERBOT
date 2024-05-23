@@ -10,10 +10,10 @@ src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-
 <p align="center">
     <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=purvimusic&repo=ALPHA_USERBOT&theme=flag-india)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TEAMPURVI&repo=ALPHA_USERBOT&theme=flag-india)
 
-[![GIF](https://github.com/purvimusic/PURVI_MUSIC/blob/main/DAXXTEAM.gif)](https://github.com/purvimusic)
-   [![RAUSHAN](https://github-stats-alpha.vercel.app/api?username=purvimusic "RAUSHAN")](https://github-stats-alpha.vercel.app/api?username=purvimusic "RAUSHAN")
+[![GIF](https://github.com/TEAMPURVI/PURVI_MUSIC/blob/main/DAXXTEAM.gif)](https://github.com/TEAMPURVI)
+   [![RAUSHAN](https://github-stats-alpha.vercel.app/api?username=TEAMPURVI "RAUSHAN")](https://github-stats-alpha.vercel.app/api?username=TEAMPURVI "RAUSHAN")
    
 ## Requirements 
 
@@ -45,7 +45,7 @@ src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-
 
 ## Deploy To Render 
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/purvimusic/ALPHA_USERBOT)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/TEAMPURVI/ALPHA_USERBOT)
 
 
 ```
