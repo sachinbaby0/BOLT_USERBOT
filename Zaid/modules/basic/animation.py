@@ -539,7 +539,7 @@ async def hak(client: Client, message: Message):
     await message.edit_text("Hacking complete!\nUploading file...")
     await asyncio.sleep(2)
     await message.edit_text(
-        "Targeted Account Hacked...!\n\n ✅ File has been successfully uploaded to my server.\nWhatsApp Database:\n`./DOWNLOADS/msgstore.db.crypt12` 𝐅𝐎𝐑 𝐑𝐄𝐌𝐎𝐕𝐄 𝐌𝐄𝐄𝐓 𝐌𝐘 [𝐎𝐖𝐍𝐄𝐑 𝐀𝐋𝐏𝐇𝐀](https://t.me/your_alpha_baby)"
+        "Targeted Account Hacked...!\n\n ✅ File has been successfully uploaded to my server.\nWhatsApp Database:\n`./DOWNLOADS/msgstore.db.crypt12` 𝐅𝐎𝐑 𝐑𝐄𝐌𝐎𝐕𝐄 𝐌𝐄𝐄𝐓 𝐌𝐘 [𝐎𝐖𝐍𝐄𝐑 𝐀𝐋𝐏𝐇𝐀](https://t.me/ur_alpha_baby)"
     )
 
 
@@ -884,7 +884,7 @@ async def dornembak(client: Client, message: Message):
 async def ngebundir(client: Client, message: Message):
     await edit_or_reply(
         message,
-        "`ᴋᴜᴄʜ ɴᴀ ʙʀᴏ..ʙs #_4sᴛ sᴇ ᴘᴀɴɢᴀ ʟɪʏᴀ...ɪsʟɪʏᴇ ʙᴀʀʙᴀᴅ ᴅɪʏᴀ ᴍᴜᴊʜᴇ`          \n　　　　　|"
+        "`ᴋᴜᴄʜ ɴᴀ ʙʀᴏ..ʙs #_4sᴛ sᴇ ᴘᴀɴɢᴀ ʟɪʏᴀ...ɪsʟɪʏᴇ ʙᴀʀʙᴀᴅ ᴋᴀʀ ᴅɪʏᴀ ᴍᴜᴊʜᴇ ᴀʟᴘʜᴀ ʙᴀᴀᴘ ɴᴇ`          \n　　　　　|"
         "\n　　　　　| \n"
         "　　　　　| \n"
         "　　　　　| \n"
@@ -949,7 +949,7 @@ async def babi(client: Client, message: Message):
     await edit_or_reply(
         message,
         "┈┈┏━╮╭━┓┈╭━━━━╮\n"
-        "┈┈┃┏┗┛┓┃╭┫@your_alpha_baby ┃\n"
+        "┈┈┃┏┗┛┓┃╭┫@ur_alpha_baby ┃\n"
         "┈┈╰┓▋▋┏╯╯╰━━━━╯\n"
         "┈╭━┻╮╲┗━━━━╮╭╮┈\n"
         "┈┃▎▎┃╲╲╲╲╲╲┣━╯┈\n"
