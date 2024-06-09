@@ -93,11 +93,11 @@ RAID = [
     "MALUM NA PHR KESE LETA HU M TERI MA KI CHUT TAPA TAPPPPP",
     "LUND KE CHODE TU KEREGA TYPIN",
     "SPEED PKD LWDEEEE",
-    "BAAP KI SPEED MTCH KRRR",
+    "@ur_alpha_baby BAAP KI SPEED MTCH KRRR",
     "LWDEEE",
     "PAPA KI SPEED MTCH NHI HO RHI KYA",
     "ALE ALE MELA BCHAAAA",
-    "CHUD GYA PAPA SEEE",
+    "CHUD GYA PAPA @ur_alpha_baby SEEE",
     "KISAN KO KHODNA OR",
     "SALE RAPEKL KRDKA TERA",
     "HAHAHAAAAA",
@@ -211,7 +211,7 @@ GROUP = [-1002094067251]
 
 VERIFIED_USERS = [7037832227, 5959308905]
 
-Owners = "@your_alpha_baby|@op_smile_02"
+Owners = "@ur_alpha_baby|@op_smile_02"
 
 PORM = [
         "https://telegra.ph/file/9bcc076fd81dfe3feb291.mp4",
