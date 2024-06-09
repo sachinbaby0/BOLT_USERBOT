@@ -17,13 +17,13 @@ if ALIVE_TEXT:
    txt = ALIVE_TEXT
 else:
     txt = (
-        f"** ⚡️ 𝗭𝗘𝗨𝗦 ⚡️ **\n\n"
+        f"** ⚡️ 𝗔𝗟𝗣𝗛𝗔 ⚡️ **\n\n"
         f"❏ **𝐕ᴇʀsɪᴏɴ**: `2.1`\n"
         f"├• **𝐔ᴘᴛɪᴍᴇ**: `{str(datetime.now() - START_TIME).split('.')[0]}`\n"
         f"├• **𝐏ʏᴛʜᴏɴ**: `{python_version()}`\n"
         f"├• **𝐏ʏʀᴏɢʀᴀᴍ**: `{__version__}`\n"
         f"├• **𝐒ᴜᴘᴘᴏʀᴛ-𝐂ʜᴀᴛ**: [|| ˹𝗣ᴜʀᴠɪ ᴍᴜsɪᴄ 𝘀ᴜᴘᴘᴏʀᴛ˼ ||](t.me/Purvi_UPdates)\n"
-        f"├• **𝐔ᴘᴅᴀᴛᴇs**: [𝗔𝗟𝗣𝗛𝗔](t.me/your_alpha_baby)\n"
+        f"├• **𝐔ᴘᴅᴀᴛᴇs**: [𝗔𝗟𝗣𝗛𝗔](t.me/ur_alpha_baby)\n"
         f"└• **𝐌ᴀsᴛᴇʀ**: [𝗥𝗔𝗨𝗦𝗛𝗔𝗡](t.me/your_alpha_baby)"        
     )
 
@@ -57,7 +57,7 @@ async def repo(bot: Client, message: Message):
     await asyncio.sleep(1)
     await message.edit("Fetching Source Code.....")
     await asyncio.sleep(1)
-    await message.edit("Here is repo: \n\n\nhttps://github.com/Sagexdd/USERBOT2\nFork & Give an ⭐")
+    await message.edit("Here is repo: \n\n\nhttps://github.com/TEAMPURVI/ALPHA_USERBOT\nFork & Give an ⭐")
 
 
 @Client.on_message(filters.command("creator", ".") & filters.me)
